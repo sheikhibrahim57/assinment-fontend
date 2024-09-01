@@ -3,8 +3,8 @@ import React from "react";
 const Client = () => {
   return (
     <div className="max-w-container mx-auto flex pt-[100px] pb-[99px]">
-      <div className="flex gap-[30px]">
-        <div className="w-[370px] pt-[25px] pb-[40px] hover:bg-[#D8EAFF] duration-1000 rounded-[20px]">
+      <div className="flex flex-wrap justify-center gap-[30px]">
+        <div className="w-[360px] pt-[25px] pb-[40px] duration-1000 rounded-[20px]">
           <img src="assets/element.png" alt="" />
           <div>
             <h2 className="text-[#192239] text-[48px] font-extrabold font-open">
@@ -17,7 +17,7 @@ const Client = () => {
             </p>
           </div>
         </div>
-        <div className="w-[370px] pt-[25px] pb-[40px] hover:bg-[#D8EAFF] duration-1000 rounded-[20px]">
+        <div className="w-[360px] pt-[25px] pb-[40px] hover:bg-[#D8EAFF] duration-1000 rounded-[20px]">
           <p className="w-[331px] pt-[15px] pl-[40px] pr-[51px] text-[#6C7D93] font-normal text-[18px] leading-[30px] font-paprika">
             Content Marketing is the other fold of online advertisement. If you
             are looking to build. digital marketing campaigns are becoming more
@@ -38,7 +38,7 @@ const Client = () => {
           </div>
         </div>
 
-        <div className="w-[370px] pt-[25px] pb-[40px] hover:bg-[#D8EAFF] duration-1000 rounded-[20px]">
+        <div className="w-[360px] pt-[25px] pb-[40px] hover:bg-[#D8EAFF] duration-1000 rounded-[20px]">
           <p className="w-[331px] pt-[15px] pl-[40px] pr-[51px] text-[#6C7D93] font-normal text-[18px] leading-[30px] font-paprika">
             Content Marketing is the other fold of online advertisement. If you
             are looking to build. digital marketing campaigns are becoming more

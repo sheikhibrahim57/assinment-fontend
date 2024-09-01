@@ -8,12 +8,12 @@ const Services = () => {
         <h2 className="text-[#192239] text-[30px] md:text-[48px] font-extrabold font-open">
           Our Services
         </h2>
-        <p className=" pt-[15px] pb-[52px] md:px-[419px] text-[#6C7D93] font-normal text-[18px] leading-[32px] font-paprika">
+        <p className=" pt-[15px] pb-[52px] lg:px-[419px] text-[#6C7D93] font-normal text-[18px] leading-[32px] font-paprika">
           We have been providing great flooring solutions service.
         </p>
       </div>
 
-      <div className="flex md:justify-between justify-around flex-wrap gap-5">
+      <div className="flex lg:justify-between justify-around flex-wrap gap-5">
         <div className="md:w-[413px] pt-[52px] pb-[57px] bg-[#EBF7E9] rounded-[20px]">
           <img className="mx-auto" src="assets/service1.png" alt="service1" />
           <h2 className="mt-[28px] mb-[20px] text-[#192239] text-center text-[30px] font-semibold font-open leading-[36px]">

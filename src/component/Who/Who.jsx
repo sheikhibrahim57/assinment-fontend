@@ -3,10 +3,10 @@ import React from "react";
 const Who = () => {
   return (
     <div className="max-w-container mx-auto flex md:pt-[100px] pb-14 md:pb-[99px]">
-      <div className="md:w-3/5 invisible md:visible">
+      <div className="md:w-3/5 invisible lg:visible">
         <img src="assets/who.png" alt="who" />
       </div>
-      <div className="md:w-2/5 ml-[-5%]">
+      <div className="lg:w-2/5 ml-[-25%] lg:ml-0">
         <img src="assets/element.png" alt="element" />
         <div>
           <h2 className="text-[#192239] text-[30px] md:text-[48px] font-extrabold font-open">

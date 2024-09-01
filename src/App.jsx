@@ -20,11 +20,11 @@ function App() {
       <Banner/>
       <Services/>
       <Who/>
-      {/* <Work/>
+      <Work/>
       <Process/>
       <Client/>
-      <Latest/> */}
-      {/* <Footer/> */}
+      <Latest/>
+      <Footer/>
     </>
   )
 }

@@ -8,13 +8,13 @@ const Latest = () => {
         <h2 className="text-[#192239] text-[48px] font-extrabold font-open">
           Our Latest Blog
         </h2>
-        <p className=" pt-[15px] pb-[52px] px-[340px] text-[#6C7D93] font-normal text-[18px] leading-[32px] font-paprika">
+        <p className=" pt-[15px] pb-[52px] lg:px-[340px] text-[#6C7D93] font-normal text-[18px] leading-[32px] font-paprika">
           We provide digital experience services to startups and small
           businesses.
         </p>
       </div>
 
-      <div className="flex justify-between">
+      <div className="flex justify-center gap-2 lg:justify-between flex-wrap">
         <div className="w-[370px]">
           <img className="rounded-t-[20px]" src="assets/our.png" alt="" />
           <div className="pl-[30px] bg-[#fff] border-[1px] border-t-0 border-[#EFEFEF] rounded-b-[20px]">
